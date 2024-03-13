@@ -1,0 +1,9 @@
+#pokemonName {
+  display: flexbox;
+  margin: 10px;
+}
+
+#pokemonSprite {
+  display: flexbox;
+  margin: 10px;
+}
